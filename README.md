@@ -10,9 +10,8 @@
 
 
 > Highlights from the current model:
-> * reduced index size by 85% over baseline model (163.8 MB to 25 MB)
-> * increase mAP score by 9% over baseline model
-
+> * Reduced index size by 85% over baseline model (163.8 MB to 25 MB) through dimensionality reduction using an autoencoder network
+> * Increased mAP score by 9% over baseline model through strategic adjustments, including increasing convolutional and max-pooling layers in the network architecture.
 
 <br>
 
